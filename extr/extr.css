@@ -1,0 +1,39 @@
+.pic { 
+    position: absolute;
+    right: 10%;
+    top: 9%;
+    width: 25%;
+    height: 80%;
+
+
+
+}
+.tit { 
+    position: absolute;
+    left: 21%;
+
+
+}
+.sub {
+    position: absolute;
+    bottom: 10%;
+    background-color: black;
+    color: white;
+    left: 28%;
+
+
+}
+.ex {
+    position: absolute;
+    top: 30%;
+
+}
+.pt{
+    font-size: 1.5vw;
+    
+}
+
+.pt2{
+    font-size: 1.5vw;
+    
+}

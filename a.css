@@ -1,0 +1,153 @@
+
+.pont { 
+   font-size: 1vw;
+   font: bold;
+   display: flex;
+   align-items: center;
+   justify-content: left;
+   text-align: center;
+}
+
+.bt1{
+ background-size: 100%;
+ background-repeat: no-repeat;
+ background-image: url(images/표.png);
+ border: none;
+ background-color: rgb(233, 233, 224);
+ bottom: 50%;
+ position:absolute;
+ z-index: 4;
+ width: 13%;
+ height: 10%;
+
+ 
+}
+.q{
+   z-index: 100;
+   color: rgb(76, 76, 110) ;
+   background-color: rgb(76, 76, 114);
+   z-index: 3;
+   position: absolute;
+   width: 102%;
+   height: 4%;
+   bottom: -17px;
+   left: -1%;
+}
+.w{
+
+   position: absolute;
+   background-color: rgba(233, 233, 224);
+   z-index: -1;
+   color:rgb(233, 233, 224) ;
+   width: 100%;
+   height: 60%;
+   bottom: 0px;
+   left: -1%;
+
+
+
+}
+
+
+   
+@media (max-width : 768px) {
+   .bt { 
+      position: absolute;
+   
+   
+   }
+   .q {
+       position: absolute;
+   
+   
+   }
+   .w {
+       position: absolute;
+   
+   
+   }
+
+}
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
