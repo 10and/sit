@@ -51,18 +51,21 @@
 
    
 @media (max-width : 768px) {
-   .bt { 
+   .bt1 { 
       position: absolute;
-   
+      display: none;
+    
    
    }
    .q {
        position: absolute;
+      display: none;
    
    
    }
    .w {
        position: absolute;
+      display: none;
    
    
    }
